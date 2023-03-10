@@ -1,0 +1,58 @@
+body{
+  background-color: #5F9EA0;
+}
+img{
+  max-width: 300px;
+  max-height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*oliver thinkful*/
+h1{
+  color:beige;
+font-family:rockwell;
+}
+
+/*software devloper title*/
+h4{
+  color:beige;
+  font-family: "rockwell extra bold";
+  padding-bottom: 20px;
+}
+
+header{
+background-color:black;
+  text-align: center;
+ margin-top: -20px;
+margin-bottom: -22px;;
+}
+
+hr{
+  background-color: black;
+  height: 2px;
+}
+
+/*hi! I'm Oliver Thinkful */
+h2{
+   color:beige;
+  font-family: Garamond;
+  font-size: 20px;
+  text-align: center;
+}
+
+/*first unorderd list*/
+.list1 li{
+  padding: 5px 5px ;
+}
+
+h3{
+   color:beige;
+  font-family: Garamond;
+  text-align: center;
+}
+p, li, ui, oi{
+  color:beige;
+  font-family:Garamond;
+}
